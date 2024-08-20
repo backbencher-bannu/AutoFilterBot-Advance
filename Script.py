@@ -6,10 +6,10 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: Hansaka Anuhas
-★ Username: @Hansaka_Anuhas
-★ ID: <code>5493832202</code>
-★ Country: Sri Lanka 🇱🇰"""
+    MY_OWNER_TXT = """★ Name: Mega
+★ Username: @megalinksbrobot
+★ ID: <code>549383584</code>
+★ Country: unknown
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>

@@ -11,7 +11,7 @@ class script(object):
 ★ ID: <code>549383584</code>
 ★ Country: unknown
 
-    STATUS_TXT = """🗂 Total Files: <code>{}</code>
+    STATUS_TXT = """ Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
 👥 Total Chats: <code>{}</code>
 ✨ Used Storage: <code>{}</code>
